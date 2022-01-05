@@ -5,6 +5,6 @@ This is the source code of the analytical model for the TWC-WSS-Clos-Network, yo
 
 You can modify all available parameters in 'Constant.java'.
 
-Try it.
+Please try it.
 
 If you see any bug, let me know.
